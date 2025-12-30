@@ -29,7 +29,7 @@ print("\n ")
 
 #second way 
 
-print("second way of th code ")
+print("second way of the code ")
 
 num2=153
 
