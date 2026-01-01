@@ -1,8 +1,8 @@
-# Data Structures and Algorithms (Python) 🚀
+# Data Structures and Algorithms (Python)
 
 This repository contains my personal journey through learning Data Structures and Algorithms using Python. It includes solutions to various problems, categorized by topic.
 
-## 📌 Project Overview
+##  Project Overview
 The goal of this repository is to strengthen my problem-solving skills and maintain a clean record of my coding progress.
 
 ## 📂 Contents
