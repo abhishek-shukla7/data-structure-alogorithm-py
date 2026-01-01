@@ -94,3 +94,6 @@ for ch in q:
 
 #time complexity=o(N+M)
 #SC->0(26)
+#time complexity=o(N+M)
+
+
