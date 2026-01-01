@@ -92,4 +92,5 @@ for ch in q:
     index=ascii_val-97
     print(f" {ch} occurs {hash_list1[index]} times")
 
-
+#time complexity=o(N+M)
+#SC->0(26)
