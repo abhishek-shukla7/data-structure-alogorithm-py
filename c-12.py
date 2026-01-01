@@ -1,3 +1,4 @@
+#Recursion
 #recursion theory it calls itself at 987 times after that i throws the error 
 # and we can also set the value like setrecursionlimit(200 0) then it will run the code for 2000 times then it stops
 
@@ -24,6 +25,7 @@ def name():
 name()
 
 print("\n")
+  
 #Tail recursion 
 #print name n time 4 times 
 
@@ -43,7 +45,9 @@ def tail():
 
 tail()
     
+#Time complexity:-> O(N+1) SIMILAR TO O(N)
 
+#Space complexity:->O(N+1) SIMILAR TO =O(N)
 
 
 
