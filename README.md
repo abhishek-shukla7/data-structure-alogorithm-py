@@ -21,6 +21,7 @@ The goal of this repository is to strengthen my problem-solving skills and maint
 |10 | **Recursion** | Functional recursion | [c-14.py](./c-14.py) |
 |11 | **Recursion** | Factorial recursion | [c-15.py](./c-15.py) |
 |12 | **Recursion** | Reversing Array using recursion | [c-16.py](./c-16.py) |
+|13 | **Recursion** | Palindrome using recursion,for,while | [c-17.py](./c-17.py) |
 
 ---
 
