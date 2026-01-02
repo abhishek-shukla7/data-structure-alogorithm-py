@@ -14,6 +14,9 @@ s='nitin'
 
 print("string is: ", pali(s,0,len(s)-1))
 
+#Time complexity=O(N/2) SIMILAR TO O(N)
+#Space Complexity=O(N/2) Space Stack
+
 
 #Using For loop 
 
