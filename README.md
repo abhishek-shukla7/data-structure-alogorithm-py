@@ -19,6 +19,7 @@ The goal of this repository is to strengthen my problem-solving skills and maint
 | 8 | **Recursion** | Head and Tail recursion | [c-12.py](./c-12.py) |
 | 9 | **Recursion** | Parameterized recursion | [c-13.py](./c-13.py) |
 |10 | **Recursion** | Functional recursion | [c-14.py](./c-14.py) |
+|11 | **Recursion** | Factorial recursion | [c-15.py](./c-15.py) |
 
 ---
 
