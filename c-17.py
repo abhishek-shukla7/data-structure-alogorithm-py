@@ -1,13 +1,5 @@
 #chech string is palindrome or not 
-
-
-
-
 #using recursion
-
-
-
-
 def pali(str,left,right):
 
     if(left>=right):
@@ -18,12 +10,9 @@ def pali(str,left,right):
     
     pali(str,left+1,right-1)
 
-
 s='nitin'
 
 print("string is: ", pali(s,0,len(s)-1))
-
-
 
 
 #Using For loop 
@@ -41,10 +30,6 @@ if(z==copy_n):
 
 else:
     print("String is not palindrome: ")
-
-
-
-
 
 
 #Using While Loop
@@ -73,3 +58,5 @@ s2='sahl'
 
 print(whi(s2))
 
+#time complxity=o(N/2) similar O(N)
+#Space complexity=O(1)
