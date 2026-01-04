@@ -26,6 +26,7 @@ The goal of this repository is to strengthen my problem-solving skills and maint
 |15 | **Sorting** | Selection Sort | [c-19.py](./c-19.py) |
 |16 | **Sorting** | Bubble Sort | [c-20.py](./c-20.py) |
 |17 | **Sorting** | Insertion Sort | [c-21.py](./c-21.py) |
+|18 | **Sorting** | Merge Sort | [c-22.py](./c-22.py) |
 
 ---
 
