@@ -30,6 +30,7 @@ The goal of this repository is to strengthen my problem-solving skills and maint
 |19 | **Revision** | Revision | [c-revision.py](./c-revision.py) |
 |20 | **Sorting** | Quick Sort | [c-23.py](./c-23.py) |
 |21 | **Largest** | Find the largest element in the array | [c-24.py](./c-24.py) |
+|21 | **Second Largest** | Find the Second largest element in the array | [c-24.py](./c-24.py) |
 
 
 ---
