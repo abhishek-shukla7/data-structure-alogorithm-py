@@ -1,4 +1,4 @@
-#Find the second largest element
+#Find the second largest element wuth worst,better and best all the method
 from math import inf
 nums=[55,32,97,-55,45,32,88,21]
 print("Easy/Brute Force Solution")
