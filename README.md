@@ -32,6 +32,7 @@ The goal of this repository is to strengthen my problem-solving skills and maint
 |21 | **Largest** | Find the largest element in the array | [c-24.py](./c-24.py) |
 |21 | **Second Largest** | Find the Second largest element in the array | [c-25.py](./c-25.py) |
 |22 | **Sorted** | Sorted array | [c-26.py](./c-26.py) |
+|22 | **Sorted Array** | Remove Duplicates from sorted array | [c-27.py](./c-27.py) |
 
 
 ---
