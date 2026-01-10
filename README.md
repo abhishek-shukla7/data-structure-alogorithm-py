@@ -34,6 +34,7 @@ The goal of this repository is to strengthen my problem-solving skills and maint
 |22 | **Sorted** | Sorted array | [c-26.py](./c-26.py) |
 |22 | **Sorted Array** | Remove Duplicates from sorted array | [c-27.py](./c-27.py) |
 |23 | **Array** | Right Rotate Array by 1 place | [c-28.py](./c-28.py) |
+|24 | **Array** | Right Rotate Array by k place | [c-29.py](./c-29.py) |
 
 
 ---
