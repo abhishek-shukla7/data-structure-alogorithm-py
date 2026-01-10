@@ -14,3 +14,11 @@ def bubble(num):
 
 bubble(nums)
 print(nums)
+
+# Average and worst case 
+#Time Complexity:O(N(N+1)/2) SIMILAR O(N2)
+#Space Complexity:O(1)
+
+
+
+

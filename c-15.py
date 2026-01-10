@@ -14,4 +14,4 @@ def fact(n):
 print(fact(3))
 
 #Time Complexity=O(n)
-#Space Complexity=O(n)
+#Space Complexity=O(n)->Stack Space
