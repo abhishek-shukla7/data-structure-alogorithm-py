@@ -48,9 +48,6 @@ def move(num1):
     for i in range(pos,l):
         num1[i]=0
 
-
-
-
 num2=[1,2,0,4,3,0,0,3,5,1]
 move(num2)
 print(num2)

@@ -53,8 +53,8 @@ reverse(nums2, 0, n1 - k1 - 1)
 reverse(nums2, 0, n1 - 1)
 
 print(nums2)
-#Time Complexity:
-
+#Time Complexity:O(N)
+#Space Complexity:O(1)
 
 
 
