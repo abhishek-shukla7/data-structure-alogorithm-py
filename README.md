@@ -37,6 +37,7 @@ The goal of this repository is to strengthen my problem-solving skills and maint
 |24 | **Array** | Right Rotate Array by k place | [c-29.py](./c-29.py) |
 |25 | **Array** | Moving Zeros at end in place | [c-30.py](./c-30.py) |
 |26 | **Linear Search** | Linear Search | [c-31.py](./c-31.py) |
+|26 | **Merge Sorted** | Merge 2 Sorted Array | [c-32.py](./c-32.py) |
 
 
 ---
