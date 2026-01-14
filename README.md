@@ -38,6 +38,7 @@ The goal of this repository is to strengthen my problem-solving skills and maint
 |25 | **Array** | Moving Zeros at end in place | [c-30.py](./c-30.py) |
 |26 | **Linear Search** | Linear Search | [c-31.py](./c-31.py) |
 |26 | **Merge Sorted** | Merge 2 Sorted Array | [c-32.py](./c-32.py) |
+|27 | **Missing number in array** | Missing number in  Array | [c-33.py](./c-33.py) |
 
 
 ---
