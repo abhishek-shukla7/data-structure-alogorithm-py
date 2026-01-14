@@ -39,6 +39,7 @@ The goal of this repository is to strengthen my problem-solving skills and maint
 |26 | **Linear Search** | Linear Search | [c-31.py](./c-31.py) |
 |26 | **Merge Sorted** | Merge 2 Sorted Array | [c-32.py](./c-32.py) |
 |27 | **Missing number in array** | Missing number in  Array | [c-33.py](./c-33.py) |
+|28 | **Max Consecutive Ones** | Max Consecutive one leetcode 485| [c-34.py](./c-34.py) |
 
 
 ---
