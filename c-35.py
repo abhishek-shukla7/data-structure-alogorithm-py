@@ -11,6 +11,8 @@ def two_sum(num,target):
 
 print("usign for loop ",two_sum(nums,13))
 
+# TIME COMPLEXITY=O(N(N+1)/2) SIMILAR O(N2)
+#SPACE COMPLEXITY=O(1)
 
 
 
