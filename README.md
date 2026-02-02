@@ -41,6 +41,8 @@ The goal of this repository is to strengthen my problem-solving skills and maint
 |27 | **Missing number in array** | Missing number in  Array | [c-33.py](./c-33.py) |
 |28 | **Max Consecutive Ones** | Max Consecutive one leetcode 485| [c-34.py](./c-34.py) |
 |29 | **Two Sum Problem** |Two Sum Problem Leetcode | [c-35.py](./c-35.py) |
+|30 | **Maximum Sub array** |Maximum Sub array | [c-36.py](./c-36.py) |
+|31 | **Stock Buy and sell** |Stock Buy and sell | [c-37.py](./c-37.py) |
 
 
 ---
