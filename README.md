@@ -45,6 +45,7 @@ The goal of this repository is to strengthen my problem-solving skills and maint
 |31 | **Stock Buy and sell** |Stock Buy and sell | [c-37.py](./c-37.py) |
 |32 | **Rearrange leetcode 2149** |Rearrange Leetcode 2149 | [c-38.py](./c-38.py) |
 |33 | **Longest Consecutive Sequence** |Longest Consecutive Sequence | [c-39.py](./c-39.py) |
+|33 | **Matrix 2D list** |Learn about 2D array | [c-40.py](./c-40.py) |
 
 
 ---
